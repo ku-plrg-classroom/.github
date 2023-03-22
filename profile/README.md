@@ -2,13 +2,10 @@
 
 ![PLRG @ Korea University](https://raw.githubusercontent.com/ku-plrg-classroom/.github/main/profile/kuplrg-logo.svg)
 
-Welcome to classroom for programming language research group (PLRG) @ Korea
-University.
-
-If you want to know more about us, please visit our
-[website](https://plrg.korea.ac.kr).
+Welcome to the classroom for the [programming language research group
+(PLRG)](https://plrg.korea.ac.kr/) @ [Korea University](https://korea.ac.kr).
 
 ## Programming Assignments
 
 Please see the [docs](https://github.com/ku-plrg-classroom/docs) repository to
-know how to do programming assignments.
+learn how to do programming assignments.
