@@ -1,6 +1,6 @@
 # Classroom for PLRG @ Korea University
 
-![PLRG @ Korea University](./kuplrg-logo.svg)
+![PLRG @ Korea University](https://raw.githubusercontent.com/ku-plrg-classroom/.github/main/profile/kuplrg-logo.svg)
 
 Welcome to classroom for programming language research group (PLRG) @ Korea
 University.
